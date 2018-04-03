@@ -1,0 +1,1 @@
+{"stats": {"errors": 0, "failures": 0, "passes": 1, "skipped": 0, "encoding": "UTF-8", "total": 1}, "results": [{"classname": "index_test:TestPythonDatatypes", "name": "test_passes", "time": 0.00021696090698242188, "type": "success"}]}
